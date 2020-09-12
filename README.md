@@ -27,3 +27,15 @@ Esse curso é destinado às mulheres inscritas no grupo de estudos de Introduç�
 12. Projeto final
 
 ## Aulas
+
+### Aula 1
+
+### Aula 2
+
+### Aula 3
+
+### Aula 4
+
+### Aula 5
+
+### Projeto final
