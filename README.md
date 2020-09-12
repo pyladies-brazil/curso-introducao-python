@@ -3,7 +3,7 @@ Material criado para o curso de estudo de Introdução a Python direcionado para
 
 ## Índice
 
-1. [Descrição](#descricao)
+1. [Descrição](#descrição)
 2. [Ementa](#ementa)
 3. [Aulas](#aulas)
 
