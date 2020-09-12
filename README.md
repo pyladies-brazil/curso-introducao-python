@@ -1,5 +1,5 @@
-# Curso de Introdução a Python
-Material criado para o curso de estudo de Introdução a Python direcionado para pessoas que sabem programar em outra linguagem.
+# Curso de Introdução à Python
+Material criado para o curso de estudo de Introdução à Python direcionado para pessoas que sabem programar em outra linguagem.
 
 ## Índice
 
@@ -9,8 +9,21 @@ Material criado para o curso de estudo de Introdução a Python direcionado para
 
 ## Descrição
 
-Esse curso é destinado às mulheres inscritas no grupo de estudos de Introdução a Python organizado pelas PyLadies Brasil. O curso será ministrado de maneira remota, e será composto de 5 aulas. A ementa pode ser encontrada a seguir.
+Esse curso é destinado às mulheres inscritas no grupo de estudos de Introdução à Python organizado pelas PyLadies Brasil. O curso será ministrado de maneira remota, e será composto de 5 aulas. A ementa pode ser encontrada a seguir.
 
 ## Ementa
+
+1.  Motivação à linguagem Python
+2. Introdução à lógica de programação
+3. Operadores aritméticos
+4. Operadores lógicos
+5. Estruturas lógicas e condicionais
+6. Estruturas de repetição
+7. Estruturas de dados
+8. Funções
+9. Classes
+10. Bibliotecas
+11. Git + GitHub
+12. Projeto final
 
 ## Aulas
