@@ -1,4 +1,3 @@
-![Python Logo](https://logodownload.org/wp-content/uploads/2019/10/python-logo.png)
 # Curso de Introdução à Python
 Material criado para o curso de estudo de Introdução à Python direcionado para pessoas que sabem programar em outra linguagem.
 
