@@ -47,7 +47,7 @@ Em breve
 
 #### Exercícios
 
-Em breve
+[Arquivo Python](https://github.com/pyladies-brazil/curso-introducao-python/blob/main/aula1/exercicios.py)
 
 ---
 
@@ -63,7 +63,7 @@ Em breve
 
 #### Exercícios
 
-Em breve
+[Arquivo Python](https://github.com/pyladies-brazil/curso-introducao-python/blob/main/aula2/exercicios.py)
 
 ---
 
@@ -79,7 +79,7 @@ Em breve
 
 #### Exercícios
 
-Em breve
+[Arquivo Python](https://github.com/pyladies-brazil/curso-introducao-python/blob/main/aula3/exercicios.py)
 
 ---
 
@@ -95,7 +95,7 @@ Em breve
 
 #### Exercícios
 
-Em breve
+[Arquivo Python](https://github.com/pyladies-brazil/curso-introducao-python/blob/main/aula4/exercicios.py)
 
 ---
 
@@ -111,7 +111,7 @@ Em breve
 
 #### Exercícios
 
-Em breve
+[Arquivo Python](https://github.com/pyladies-brazil/curso-introducao-python/blob/main/aula5/exercicios.py)
 
 ---
 
@@ -123,4 +123,4 @@ Em breve
 
 #### Requisitos
 
-Em breve
+[Arquivo Python](https://github.com/pyladies-brazil/curso-introducao-python/blob/main/projeto/requisitos.txt)
