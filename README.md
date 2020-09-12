@@ -6,6 +6,7 @@ Material criado para o curso de estudo de Introdução à Python direcionado par
 1. [Descrição](#descrição)
 2. [Ementa](#ementa)
 3. [Aulas](#aulas)
+4. [Projeto final](#projeto-final)
 
 ## Descrição
 
@@ -27,6 +28,12 @@ Esse curso é destinado às mulheres inscritas no grupo de estudos de Introduç�
 12. Projeto final
 
 ## Aulas
+
+1. [Aula 1](#aula-1)
+2. [Aula 2](#aula-2)
+3. [Aula 3](#aula-3)
+4. [Aula 4](#aula-4)
+5. [Aula 5](#aula-5)
 
 ### Aula 1
 
@@ -108,7 +115,7 @@ Em breve
 
 ---
 
-### Projeto final
+## Projeto final
 
 #### Materiais de apoio
 
