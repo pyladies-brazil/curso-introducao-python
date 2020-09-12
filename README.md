@@ -29,6 +29,7 @@ Esse curso é destinado às mulheres inscritas no grupo de estudos de Introduç�
 ## Aulas
 
 ### Aula 1
+---
 
 #### Link da aula
 
@@ -41,9 +42,13 @@ Em breve
 #### Exercícios
 
 Em breve
+
+---
 
 ### Aula 2
 
+---
+
 #### Link da aula
 
 Em breve
@@ -55,9 +60,13 @@ Em breve
 #### Exercícios
 
 Em breve
+
+---
 
 ### Aula 3
 
+---
+
 #### Link da aula
 
 Em breve
@@ -69,9 +78,13 @@ Em breve
 #### Exercícios
 
 Em breve
+
+---
 
 ### Aula 4
 
+---
+
 #### Link da aula
 
 Em breve
@@ -84,7 +97,11 @@ Em breve
 
 Em breve
 
+---
+
 ### Aula 5
+
+---
 
 #### Link da aula
 
