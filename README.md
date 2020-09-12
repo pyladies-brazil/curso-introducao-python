@@ -30,12 +30,80 @@ Esse curso é destinado às mulheres inscritas no grupo de estudos de Introduç�
 
 ### Aula 1
 
+#### Link da aula
+
+Em breve
+
+#### Materiais de apoio
+
+Em breve
+
+#### Exercícios
+
+Em breve
+
 ### Aula 2
+
+#### Link da aula
+
+Em breve
+
+#### Materiais de apoio
+
+Em breve
+
+#### Exercícios
+
+Em breve
 
 ### Aula 3
 
+#### Link da aula
+
+Em breve
+
+#### Materiais de apoio
+
+Em breve
+
+#### Exercícios
+
+Em breve
+
 ### Aula 4
+
+#### Link da aula
+
+Em breve
+
+#### Materiais de apoio
+
+Em breve
+
+#### Exercícios
+
+Em breve
 
 ### Aula 5
 
+#### Link da aula
+
+Em breve
+
+#### Materiais de apoio
+
+Em breve
+
+#### Exercícios
+
+Em breve
+
 ### Projeto final
+
+#### Materiais de apoio
+
+Em breve
+
+#### Requisitos
+
+Em breve
