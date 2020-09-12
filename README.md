@@ -9,6 +9,8 @@ Material criado para o curso de estudo de Introdução a Python direcionado para
 
 ## Descrição
 
+Esse curso é destinado às mulheres inscritas no grupo de estudos de Introdução a Python organizado pelas PyLadies Brasil. O curso será ministrado de maneira remota, e será composto de 5 aulas. A ementa pode ser encontrada a seguir.
+
 ## Ementa
 
 ## Aulas
